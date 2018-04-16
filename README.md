@@ -11,16 +11,22 @@
 ##  Edit working(Build):
 #    For unix systems, because uses .gitignore 
 $ git clone https://github.com/geminishkv/lr4 or https://github.com/Neisoweli/lr4
+
 $ cd ...
+
 $ cmake -H. -B_builds
+
 $ cmake --build _builds
 '''
 
 
 #     For fork crossdev:
 $ git pull origin master
+
 $ git add .
+
 $ git commit -m"..."
+
 $ git push origin master
 '''
 
