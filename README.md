@@ -4,7 +4,7 @@
 
 # BMSTU IU8-21M
 
-[![Build Status](https://travis-ci.org/geminishkv/lr4.svg?branch=master)](https://travis-ci.org/geminishkv/lr4)
+[![Build Status](https://travis-ci.org/Neisoweli/lr4.svg?branch=master)](https://travis-ci.org/Neisoweli/lr4)
 
 # RK2_release_crossdev
 
