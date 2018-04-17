@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 #  Demo program for RK2 [![Build Status](https://travis-ci.org/Neisoweli/lr4.svg?branch=master)](https://travis-ci.org/Neisoweli/lr4)
 
 This program displays the value of the environment variable NAME if it exists. 
@@ -13,49 +12,36 @@ This program displays the value of the environment variable NAME if it exists.
 
 $ git clone https://github.com/geminishkv/lr4 or https://github.com/Neisoweli/lr4
 $ cd ...
-=======
-##  Demo program for RK2
 
-# This program displays the value of the environment variable NAME if it exists. Voevoda E & Shmakov I & Chepik P
 
-# BMSTU IU8-21M
+This program displays the value of the environment variable NAME if it exists. 
 
-[![Build Status](https://travis-ci.org/Neisoweli/lr4.svg?branch=master)](https://travis-ci.org/Neisoweli/lr4)
 
-# RK2_release_crossdev
+## RK2_release_crossdev
 
-##  Edit working(Build):
-#    For unix systems, because uses .gitignore 
+**Edit working(Build):**
+- For unix systems, because uses .gitignore 
+```ShellSession
+
 $ git clone https://github.com/geminishkv/lr4 or https://github.com/Neisoweli/lr4
-
 $ cd ...
-
->>>>>>> d21000962c04916497c9c4aa2ca31e8ad2ead540
 $ cmake -H. -B_builds
-
 $ cmake --build _builds
-<<<<<<< HEAD
-```
+
 - For fork crossdev:
-```ShellSession 
-=======
-'''
 
 
-#     For fork crossdev:
->>>>>>> d21000962c04916497c9c4aa2ca31e8ad2ead540
 $ git pull origin master
-
 $ git add .
-
 $ git commit -m"..."
-
 $ git push origin master
-<<<<<<< HEAD
+
+
 ```
 
 *Voevoda E & Shmakov I & Chepik P
 BMSTU IU8-21M*
+
 
 Warnings:
 $ travis lint
@@ -87,12 +73,10 @@ TreeDIR_CrossDev_GSHKV.md - watch that pls
 
 
 #RK2_release
->>>>>>> 45730a3c6bd4887138f56be01f0cabaacee70bfd
-=======
-'''
+
 
 # Demo program for RK2
 This program displays the value of the environment variable NAME if it exists.
 Voevoda E & Shmakov I
 BMSTU IU8-21M
->>>>>>> d21000962c04916497c9c4aa2ca31e8ad2ead540
+
